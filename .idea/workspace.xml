@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f09b67-7d61-4d8d-aa8e-73e3675c6780" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hLwYUb25Wr779J4FQRlCfQ7yIu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/JunoServer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpringbootspringdatajpaApplicationTests.contextLoads3">
+    <configuration name="SpringbootspringdatajpaApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootspringdatajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.springbootspringdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wsw.springbootspringdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="com.wsw.springbootspringdatajpa.SpringbootspringdatajpaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootspringdatajpaApplicationTests.contextLoads1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootspringdatajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.springbootspringdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wsw.springbootspringdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="com.wsw.springbootspringdatajpa.SpringbootspringdatajpaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootspringdatajpaApplicationTests.contextLoads2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootspringdatajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.springbootspringdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wsw.springbootspringdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="com.wsw.springbootspringdatajpa.SpringbootspringdatajpaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootspringdatajpaApplicationTests.contextLoads3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootspringdatajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsw.springbootspringdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wsw.springbootspringdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="com.wsw.springbootspringdatajpa.SpringbootspringdatajpaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootspringdatajpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootspringdatajpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wsw.springbootspringdatajpa.SpringbootspringdatajpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootspringdatajpaApplicationTests.contextLoads3" />
+        <item itemvalue="JUnit.SpringbootspringdatajpaApplicationTests.contextLoads2" />
+        <item itemvalue="JUnit.SpringbootspringdatajpaApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringbootspringdatajpaApplicationTests.contextLoads1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wangsongwen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f09b67-7d61-4d8d-aa8e-73e3675c6780" name="Default Changelist" comment="" />
+      <created>1599803728002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599803728002</updated>
+      <workItem from="1599803732096" duration="1339000" />
+      <workItem from="1599805167801" duration="1235000" />
+      <workItem from="1599806433045" duration="4502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="200" key="#Assign_Data_Sources" timestamp="1599807623449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="200" key="#Assign_Data_Sources/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599807623449" />
+    <state x="635" y="181" key="#Custom_Plugin_Repositories" timestamp="1599806241946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="181" key="#Custom_Plugin_Repositories/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599806241946" />
+    <state x="643" y="200" key="#HTTP_Proxy" timestamp="1599806118010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="200" key="#HTTP_Proxy/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599806118010" />
+    <state x="856" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1599808373996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="251" key="#com.intellij.ide.util.MemberChooser/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599808373996" />
+    <state x="781" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599803782944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599803782944" />
+    <state width="1650" height="338" key="GridCell.Tab.0.bottom" timestamp="1599813300078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1650" height="338" key="GridCell.Tab.0.bottom/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599813300078" />
+    <state width="1650" height="338" key="GridCell.Tab.0.center" timestamp="1599813300078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1650" height="338" key="GridCell.Tab.0.center/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599813300078" />
+    <state width="1650" height="338" key="GridCell.Tab.0.left" timestamp="1599813300077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1650" height="338" key="GridCell.Tab.0.left/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599813300077" />
+    <state width="1650" height="338" key="GridCell.Tab.0.right" timestamp="1599813300078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1650" height="338" key="GridCell.Tab.0.right/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599813300078" />
+    <state x="544" y="165" key="SettingsEditor" timestamp="1599806405625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="165" key="SettingsEditor/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599806405625" />
+    <state x="731" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1599806434508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="366" key="com.intellij.ide.util.TipDialog/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599806434508" />
+    <state x="707" y="199" width="670" height="676" key="search.everywhere.popup" timestamp="1599806954888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="199" width="670" height="676" key="search.everywhere.popup/1920.2.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599806954888" />
+  </component>
+</project>
